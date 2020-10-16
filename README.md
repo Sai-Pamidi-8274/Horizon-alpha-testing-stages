@@ -1,2 +1,2 @@
-# Horizon-alpha-testing-stages
-:D
+# synchronousBallMovement
+Ball moving synchronously
